@@ -174,4 +174,26 @@ Tool :  Excel (To create your final data set)
   **Final Master File** -   [Task 2 master copy (Data Modelling).csv](https://github.com/user-attachments/files/17007094/Task.2.master.copy.Data.Modelling.csv)
 **************************************************************************************************************************************************************************
 
+*Task 3: Data Visualization & Storytelling*
+
+What you'll learn
+
+How to connect the business and the data, &
+how to communicate relevant and engaging insights in a presentation.
+
+What you'll do
+
+The data visualizations that best support the story you want to tell to the client
+
+PowerPoint presentation that reports on the client’s content performance
+For each slide, think about: 
+
+Agenda - What will your presentation cover?
+
+    Project Recap - What are the key points from the brief?
+    Problem - What is the problem that you answer in this presentation?
+    The Analytics team - Who is on your team?
+    As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), 
+    Marcus Rompton (Senior Principle), and yourself!
+    Process - How did you complete your analysis?
 
