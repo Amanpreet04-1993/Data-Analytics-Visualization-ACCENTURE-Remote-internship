@@ -143,12 +143,13 @@ Data cleaning is a common and very important task when working with data.
 
 What you need to do:
 
-First: Open the three data sets below
+First: Open the three data sets below - (Raw File)
 
 [Uploading ReactionTypes (1).csv…]()
 
 [Uploading Reactions (1).csv…]()
 
+[Uploading Content (1).csv…]()
 
 
 Second: Clean the data by:
