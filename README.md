@@ -151,15 +151,21 @@ First: Open the three data sets below - (Raw File)
 
 [Uploading Content (1).csv…]()
 
+**Data Modelling 
+**
+Now we want to figure out the top 5 categories. To complete your data modelling, follow these steps:
 
-Second: Clean the data by:
+1. Create a final data set by merging your three tables together
 
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
-Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+       Ans -  “VLookUp” formula - the Reaction table as your base table, then first join the relevant columns from your Content data set, and then the Reaction Types data set.
  
+2. Figure out the Top 5 performing categories
 
-Your end result should be three cleaned data sets. 
+       Ans -  Add up the total scores for each category using “Sum If” formula
 
-If you get stuck, we’ll provide some guidance in the next step. But we encourage you to give it a go first!
+3. The end result should be one spreadsheet which contains:
+
+A cleaned dataset
+The top 5 categories
+ 
+Tool :  Excel (To create your final data set)
