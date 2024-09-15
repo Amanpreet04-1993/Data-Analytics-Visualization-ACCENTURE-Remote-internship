@@ -1,4 +1,4 @@
-# Data-Analytics-and-Visualization---ACCENTURE-Remote-internship
+# Data-Analytics-and-Visualization - ACCENTURE-Remote Internship
 ![Acc_Logo](https://github.com/user-attachments/assets/a6a12bec-098e-456e-bda6-338da5dab11c)
 
 
@@ -70,6 +70,8 @@ You can attempt each question in the knowledge check as many times as you like!
 This is exactly the task a data analyst would be focusing on and this is what you will be working on!
 
 
+**********************************************************************************************************************************
+
 *Task 2: Data Cleaning & Modeling*
 
 What you'll learn
@@ -82,9 +84,20 @@ Identify which datasets will be required to answer the client’s business quest
 Clean the datasets and merge them to prepare the data for analysis
 Determine the answer to the client’s business question
 
+Let's dive into the data, The client has sent through:
 
+    7 data sets - each data set contains different columns and values
+    A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+   
+There is a lot of information here and it’s easy to get lost in the data. 
+So, to make sure you are using the right data to answer the business questions 
+you’ll follow these steps:
 
+    1. Requirements gathering
+    2. Data cleaning
+    3. Data modelling
 
+First up, requirements gathering
 
 
 
