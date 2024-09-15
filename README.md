@@ -157,15 +157,21 @@ Now we want to figure out the top 5 categories. To complete your data modelling,
 
 1. Create a final data set by merging your three tables together
 
-       Ans -  “VLookUp” formula - the Reaction table as your base table, then first join the relevant columns from your Content data set, and then the Reaction Types data set.
+       Ans -  “VLookUp” formula - the Reaction table as base table,
+        first join the relevant columns from your Content data set, and then the Reaction Types data set.
  
-2. Figure out the Top 5 performing categories
+3. Figure out the Top 5 performing categories
 
-       Ans -  Add up the total scores for each category using “Sum If” formula
+       Ans -  Added up the total scores for each category  “Sum If” formula
 
-3. The end result should be one spreadsheet which contains:
+4. The end result should be one spreadsheet which contains:
 
 A cleaned dataset
 The top 5 categories
  
 Tool :  Excel (To create your final data set)
+**************************************************************************************************************************************************************************
+  **Final Master File** -   [Task 2 master copy (Data Modelling).csv](https://github.com/user-attachments/files/17007094/Task.2.master.copy.Data.Modelling.csv)
+**************************************************************************************************************************************************************************
+
+
