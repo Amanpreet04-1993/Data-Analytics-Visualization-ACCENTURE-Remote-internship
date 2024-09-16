@@ -41,17 +41,13 @@ Read the brief to:
     Identify the requirements that need to be delivered for this project.
     Identify which tasks you should focus on as a Data Analyst.
 
-
-Complete the knowledge check to move onto the next step. 
-
-You can attempt each question in the knowledge check as many times as you like!
-
 [Data_Analytics Client Brief.pdf](https://github.com/user-attachments/files/17006066/Data_Analytics.Client.Brief.pdf)
 
     Question 1
     Which statement best describes the business problem that Accenture is tasked to address for this project?
     Ans - The client has reached a massive scale within recent years &
     does not have the resources internally to handle it.
+    
   Spot on, the client stated that scale was a big problem of theirs &
     they are struggling to manage the scale with the resources that they currently have. 
     The brief said that the client is looking for help with the management of their journey into such a large scale.
@@ -67,6 +63,7 @@ You can attempt each question in the knowledge check as many times as you like!
     Question 1
     Which task out of these options is the most relevant to you as a data analyst, and therefore which one will you work on?
     Ans - Analysis of sample data sets with visualizations to understand the popularity of different content categories
+    
 This is exactly the task a data analyst would be focusing on and this is what you will be working on!
 
 
@@ -158,7 +155,7 @@ Now we want to figure out the top 5 categories. To complete your data modelling,
 1. Create a final data set by merging your three tables together
 
        Ans -  “VLookUp” formula - the Reaction table as base table,
-        first join the relevant columns from your Content data set, and then the Reaction Types data set.
+        joined relevant columns from Content data set, and then the Reaction Types data set.
  
 3. Figure out the Top 5 performing categories
 
@@ -196,15 +193,31 @@ Agenda - What will your presentation cover?
     As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), 
     Marcus Rompton (Senior Principle), and yourself!
     Process - How did you complete your analysis?
-
-***************************************************************************************************************************************************************************
-PowerPoint Presentation- [Accenture Final Presentation.pptx](https://github.com/user-attachments/files/17007349/Accenture.Final.Presentation.pptx)
-***************************************************************************************************************************************************************************
-
+    
+Like i’ve said, it’s important to keep presentation simple and clean.
+Take a look at the annotated example to see how you could have visualized the data in the form of presentation
 the client wants to understand the top 5 content categories. Have a think about what are the best ways to present this? In a pie chart? In a bar chart?
 
-There are also some other interesting insights that we might want to share with them. For example:
+There are also some other interesting insights. For example:
 
     How many unique categories are there?
     How many reactions are there to the most popular category?
     What was the month with the most posts?  
+
+It is now time to submit final presentation to the client.
+***************************************************************************************************************************************************************************
+PowerPoint Presentation- [Accenture Final Presentation.pptx](https://github.com/user-attachments/files/17017426/Accenture.Final.Presentation.pptx)
+***************************************************************************************************************************************************************************
+
+Notes:
+
+ANALYSIS
+Animals and science are the two most popular categories of content, showing that people enjoy
+"Real-life" and "factual" content the most.
+
+INSIGHT
+Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+
+NEXT STEPS
+This ad-hoc analysis is insightful, but it's time to take this analysis into large scale production for real-time understanding of your business. We can show you how to do this.
+
