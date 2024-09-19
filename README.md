@@ -1,6 +1,11 @@
-# Data-Analytics-and-Visualization - ACCENTURE-Remote Internship
+# Data-Analytics-and-Visualization - ACCENTURE-Remote Internship  (Mega Project)
+
 ![Acc_Logo](https://github.com/user-attachments/assets/a6a12bec-098e-456e-bda6-338da5dab11c)
 
+Your are assigned a new project for a client called **Social Buzz Co.**
+
+
+https://app.powerbi.com/groups/me/reports/efa46ead-1f72-41a5-bee5-8d34fdfeb2ae/cc8f6a73f66c4e2bb90c?experience=power-bi
 
 *Task 1: Project Understanding*
 
@@ -208,8 +213,11 @@ It is now time to submit final presentation to the client.
 ***************************************************************************************************************************************************************************
 PowerPoint Presentation- [Accenture Final Presentation.pptx](https://github.com/user-attachments/files/17017426/Accenture.Final.Presentation.pptx)
 ***************************************************************************************************************************************************************************
+https://app.powerbi.com/groups/me/reports/efa46ead-1f72-41a5-bee5-8d34fdfeb2ae/cc8f6a73f66c4e2bb90c?experience=power-bi
+***************************************************************************************************************************************************************************
+![Screenshot Social buzz](https://github.com/user-attachments/assets/bfb3292d-6681-48f2-b800-7d4c52bf2ed7)
 
-Notes:
+Summary:
 
 ANALYSIS
 Animals and science are the two most popular categories of content, showing that people enjoy
